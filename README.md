@@ -21,4 +21,4 @@ Sou apaixonada pela área tecnologica
   
    ##
   
-  ![Snake animation](https://https://github.com/DanielaAbreu/danielaabreu/blob/output/github-contribution-grid-snake.svg)
+
