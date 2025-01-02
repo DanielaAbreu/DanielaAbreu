@@ -1,4 +1,4 @@
-QA Salesforce 🤗 💻
+QA Salesforce 🤗 🌨️ 💻
 
 ![DanielaAbreu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielaAbreu&show_icons=true&theme=radical)
 
