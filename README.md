@@ -1,4 +1,4 @@
-QA Salesforce 🤗 🌨️ 💻
+Olá, meu nome é Daniela, e minha jornada na tecnologia começou em 2001. Atualmente, sou QA Salesforce, desenvolvendo testes meticulosos e colaborando com equipes de desenvolvimento em metodologias ágeis. Sou formada em Gestão de TI, pós-graduada em Engenharia de Software, e possuo certificações em Salesforce e Fundamentos de Teste de Software. 🤗 🌨️ 💻
 
 ![DanielaAbreu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielaAbreu&show_icons=true&theme=radical)
 
