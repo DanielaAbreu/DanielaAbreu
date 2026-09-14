@@ -1,9 +1,13 @@
 Olá, meu nome é Daniela, e minha jornada na tecnologia começou em 2001. Atualmente, sou QA Salesforce, desenvolvendo testes meticulosos e colaborando com equipes de desenvolvimento em metodologias ágeis. Sou formada em Gestão de TI, pós-graduada em Engenharia de Software, e possuo certificações em Salesforce e Fundamentos de Teste de Software. 🤗 🌨️ 💻
 
-![DanielaAbreu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielaAbreu&show_icons=true&theme=radical)
+
+![DanielaAbreu's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielaAbreu&theme=radical)
+
+
 
 
 ## Tecnologias que eu uso ou já usei no meu dia:
+
 
 <div style="display: inline_block"><br/>
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,3 +23,4 @@ Olá, meu nome é Daniela, e minha jornada na tecnologia começou em 2001. Atual
     <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
+
